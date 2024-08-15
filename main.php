@@ -1,314 +1,13 @@
-<!DOCTYPE html>
-<!-- saved from url=(0048)http://xn-%2D9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/ -->
-<html lang="ko" style="overflow: hidden; height: 100%;"
-      class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths fp-enabled">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-    <meta name="naver-site-verification" content="f7ee8419f8b44d1becd67dfd8b10f5fa1ca80613">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="title" content="더테라스레드우즈파크">
-    <link rel="canonical" href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/">
-    <meta name="url" content="http://더테라스레드우즈파크.kr/">
-    <meta name="description" content="더테라스by레드우즈파크 분양, 현장, 입주, 브랜드, 상품, 이벤트 안내">
-
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/theme/redwoods/img/sns_img.jpg">
-    <meta property="og:title" content="더테라스by레드우즈파크">
-    <meta property="og:description" content="더테라스by레드우즈파크 분양, 현장, 입주, 브랜드, 상품, 이벤트 안내">
-    <meta property="og:url" content="http://더테라스레드우즈파크.kr/">
-
-    <meta http-equiv="imagetoolbar" content="no">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>더테라스by레드우즈파크</title>
-    <link rel="stylesheet" href="./css/default.css">
-    <link rel="shortcut icon" href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/theme/redwoods/img/favicon.ico?v=2">
-    <link rel="icon" sizes="16x16 32x32"
-          href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/theme/redwoods/img/favicon.ico?v=2">
-
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/main.css">
-    <link rel="stylesheet" href="./css/menu.css">
-    <link rel="stylesheet" href="./css/layout.css">
-
-    <!--[if lte IE 8]>
-    <script src="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/js/html5.js"></script>
-    <![endif]-->
-    <script>
-        // 자바스크립트에서 사용하는 전역변수 선언
-        var g5_url = "http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr";
-        var g5_bbs_url = "http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs";
-        var g5_is_member = "";
-        var g5_is_admin = "";
-        var g5_is_mobile = "";
-        var g5_bo_table = "";
-        var g5_sca = "";
-        var g5_editor = "";
-        var g5_cookie_domain = "";
-    </script>
-
-
-    <script src="./js/jquery-1.10.2.min.js"></script>
-    <script type="text/javascript" src="./js/jquery.nav.js"></script>
-    <script type="text/javascript" src="./js/jquery.scrollTo.js"></script>
-    <script type="text/javascript" src="./js/d_lnb.js"></script>
-    <script type="text/javascript" src="./js/modernizr.js"></script> <!-- Modernizr -->
-    <script type="text/javascript" src="./js/jquery.vticker-min.js"></script>
-    <script type="text/javascript" src="./js/tytabs.jquery.min.js"></script>
-    <script type="text/javascript" src="./js/responsivetables.js"></script>
-
-    <!--공통-->
-    <script src="./js/jquery.easing.1.3.js"></script>
-    <script src="./js/owl.carousel.min.js"></script>
-    <link rel="stylesheet" media="all" href="./css/owl.carousel.css">
-    <link rel="stylesheet" media="all" href="./css/owl.theme.css">
-    <link rel="stylesheet" href="./css/css2">
-
-    <!-- WOW 라이브러리 불러오기-->
-    <link rel="stylesheet" href="./css/animate.css">
-    <script src="./js/wow.js"></script>
-    <script type="text/javascript" src="./js/common.js"></script>
-
-    <!--공통-->
-    <!--[if lt IE 9]>
-    <script type="text/javascript" src="../plugin/share/html5.js"></script>
-    <script type="text/javascript" src="../plugin/share/respond.min.js"></script>
-    <![endif]-->
-    <!--[if lte IE 8]>
-    <link href="../css/ie8.css" rel="stylesheet">
-    <![endif]-->
-
-</head>
-<body data-aos-easing="ease" data-aos-duration="800" data-aos-delay="0" class="pc fp-viewing-0"
-      style="overflow: hidden; height: 100%;">
-<div class="wrap">
-
-
-    <header id="header">
-        <div class="bg">
-        </div>
-
-        <div id="hs1">
-            <div class="d_container">
-                <div id="d_gnb">
-                    <p class="home"><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/"><i
-                            class="material-symbols-rounded">home</i></a></p>
-                    <ul class="member">
-                        <!-- <li class="m2"><a href="/bbs/login.php" target="_blank">로그인</a></li> -->
-                        <li class="d1"><a
-                                href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/write.php?bo_table=customer"><i
-                                class="material-symbols-rounded">person</i>관심고객등록</a></li>
-                        <li class="d2"><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/search.php"><i
-                                class="material-symbols-rounded">search</i>통합검색</a></li>
-                    </ul>
-                    <div class="close">
-                        <span></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div id="hs2">
-            <div class="d_container">
-                <div id="d_lnb_btn">
-                    <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-                </div>
-                <h1 class="logo">
-                    <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/">
-                        <img src="./img/logo.svg" alt="더테라스by레드우즈파크" class="pc_logo">
-                        <img src="./img/logo.svg" alt="더테라스by레드우즈파크" class="m_logo">
-                    </a>
-                </h1>
-                <div id="d_lnb">
-                    <div id="d_lnb_bg" style="height: 0px;">
-                        <div class="d_container">
-                        </div>
-                        <div class="shadow">
-                        </div>
-                    </div>
-                    <ul>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle en2 f16"
-                               href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" id="navbarDropdownBlog"
-                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">
-                                사업안내 </a>
-                            <!-- 서브 -->
-                            <div class="sub" style="height: 0px;">
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=overview"
-                                   target="_self">사업개요</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=brand"
-                                   target="_self">브랜드소개</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=constructor"
-                                   target="_self">시공사소개</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=location"
-                                   target="_self">입지환경</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=map"
-                                   target="_self">오시는길</a>
-
-                            </div>
-                        </li>
-
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle en2 f16"
-                               href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" id="navbarDropdownBlog"
-                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">
-                                단지안내 </a>
-                            <!-- 서브 -->
-                            <div class="sub" style="height: 0px;">
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=complex"
-                                   target="_self">단지소개</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=community"
-                                   target="_self">커뮤니티센터</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=placement"
-                                   target="_self">단지배치도</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=layout"
-                                   target="_self">동호수배치도</a>
-
-                            </div>
-                        </li>
-
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle en2 f16"
-                               href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" id="navbarDropdownBlog"
-                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">
-                                세대안내 </a>
-                            <!-- 서브 -->
-                            <div class="sub" style="height: 0px;">
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=plane"
-                                   target="_self">UNIT</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=emodel"
-                                   target="_self">e모델하우스</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=interior"
-                                   target="_self">인테리어</a>
-
-                            </div>
-                        </li>
-
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle en2 f16"
-                               href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" id="navbarDropdownBlog"
-                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">
-                                분양안내 </a>
-                            <!-- 서브 -->
-                            <div class="sub" style="height: 0px;">
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=guide_1"
-                                   target="_self">분양일정</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=guide_2"
-                                   target="_self">모집공고</a>
-
-                            </div>
-                        </li>
-
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle en2 f16"
-                               href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" id="navbarDropdownBlog"
-                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">
-                                프리미엄 </a>
-                            <!-- 서브 -->
-                            <div class="sub" style="height: 0px;">
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=premium"
-                                   target="_self">프리미엄</a>
-
-                            </div>
-                        </li>
-
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle en2 f16"
-                               href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" id="navbarDropdownBlog"
-                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">
-                                홍보센터 </a>
-                            <!-- 서브 -->
-                            <div class="sub" style="height: 0px;">
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/board.php?bo_table=news"
-                                   target="_self">언론보도</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=video"
-                                   target="_self">홍보영상</a>
-
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=event"
-                                   target="_self">이벤트</a>
-
-                            </div>
-                        </li>
-
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle en2 f16"
-                               href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" id="navbarDropdownBlog"
-                               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">
-                                관심고객등록 </a>
-                            <!-- 서브 -->
-                            <div class="sub" style="height: 0px;">
-                                <a class="dropdown-item ko1 f15 fw4"
-                                   href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/write.php?bo_table=customer"
-                                   target="_self">관심고객등록</a>
-
-                            </div>
-                        </li>
-
-                        <!--li class="tail">
-                  <a href="../sub10/sub03_01.html"><span class="bar">사이트맵</span></a>
-                </li-->
-                    </ul>
-                </div>
-                <div class="menu-last">
-                    <!--               <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/register.php"><i class="material-symbols-outlined">settings</i></i><span>회원가입</span></a>
-                        <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/login.php"><i class="material-symbols-outlined">settings</i><span>로그인</span></a>
-                               <a href="/bbs/search.php"><i class="material-symbols-outlined">search</i><span>검색</span></a> -->
-                    <span class="call"><i class="material-symbols-rounded">call</i>010-3235-0049<span>
-        </span></span></div>
-            </div>
-            <div id="d_lnb_mask">
-            </div>
-        </div>
-    </header>
-
-    <div id="quick">
-        <div class="top">
-            <p class="open">8월 OPEN예정</p>
-            <hr>
-            <p class="customer">관심고객등록</p>
-            <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/write.php?bo_table=customer"><i
-                    class="material-symbols-rounded">add</i></a>
-        </div>
-        <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" class="btTop"><img
-                src="./img/bt_top.svg" alt="Top"></a>
-    </div>
-
+<?php
+    include "common/_top.php"
+?>
 
     <!-- 팝업레이어 시작 { -->
+<!--
     <div id="hd_pop">
         <h2>팝업레이어 알림</h2>
-
-        <span class="sound_only">팝업레이어 알림이 없습니다.</span></div>
+        <span class="sound_only">팝업레이어 알림이 없습니다.</span>
+    </div>
 
     <script>
         $(function () {
@@ -326,12 +25,8 @@
             $("#hd").css("z-index", 1000);
         });
     </script>
+-->
     <!-- } 팝업레이어 끝 -->
-
-
-    <!-- jQuery Modal -->
-    <script src="./js/jquery.modal.min.js"></script>
-    <link rel="stylesheet" href="./css/jquery.modal.min.css">
 
     <!--내용관리 php 구문 삽입-->
 
@@ -579,7 +274,7 @@
                     <div id="ft" class="footer">
                         <div class="copyright container">
                             <div class="info">
-                                <p>분양문의 <strong>1551-8584</strong></p>
+                                <p>분양문의 <strong>010-3235-0049</strong></p>
                                 <p>지하3층 / 지상20층 총 640호실</p>
                             </div>
                             <div class="address">
@@ -855,11 +550,11 @@
 </div>
 <div id="fp-nav" class="left" style="margin-top: -53.5px;">
     <ul>
-        <li><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#" class="active"><span></span></a></li>
-        <li><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#"><span></span></a></li>
-        <li><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#"><span></span></a></li>
-        <li><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#"><span></span></a></li>
-        <li><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/#"><span></span></a></li>
+        <li><a href="#" class="active"><span></span></a></li>
+        <li><a href="#"><span></span></a></li>
+        <li><a href="#"><span></span></a></li>
+        <li><a href="#"><span></span></a></li>
+        <li><a href="#"><span></span></a></li>
     </ul>
 </div>
 </body>
