@@ -33,8 +33,8 @@
 <![endif]-->
 <script>
 // 자바스크립트에서 사용하는 전역변수 선언
-var g5_url       = "http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr";
-var g5_bbs_url   = "http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs";
+var g5_url       = "http://bunyang-sales.com";
+var g5_bbs_url   = "http://bunyang-sales.com";
 var g5_is_member = "";
 var g5_is_admin  = "";
 var g5_is_mobile = "";
@@ -92,13 +92,8 @@ var g5_cookie_domain = "";
   <div id="hs1">
     <div class="d_container">
       <div id="d_gnb">
-        <p class="home"><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/"><i class="material-symbols-rounded">home</i></a></p>
-        <ul class="member">
-                        <!-- <li class="m2"><a href="/bbs/login.php" target="_blank">로그인</a></li> -->
-              <li class="d1"><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/write.php?bo_table=customer"><i class="material-symbols-rounded">person</i>관심고객등록</a></li>
-              <li class="d2"><a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/search.php"><i class="material-symbols-rounded">search</i>통합검색</a></li>
-                   </ul>
-        <div class="close">
+        <p class="home"><a href="/"><i class="material-symbols-rounded">home</i></a></p>
+            <div class="close">
           <span></span>
         </div>
       </div>
@@ -113,8 +108,8 @@ var g5_cookie_domain = "";
       </div>
       <h1 class="logo">
         <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/">
-          <img src="./img/logo.svg" alt="더테라스by레드우즈파크" class="pc_logo">
-          <img src="./img/logo.svg" alt="더테라스by레드우즈파크" class="m_logo">
+          <img src="./img/logo.svg" alt="더테라스 레드우즈파크" class="pc_logo">
+          <img src="./img/logo.svg" alt="더테라스 레드우즈파크" class="m_logo">
         </a>
       </h1>
       <div id="d_lnb">
@@ -126,10 +121,10 @@ var g5_cookie_domain = "";
         </div>
         <ul>
         	<li class="nav-item dropdown">
-			    <a class="nav-link dropdown-toggle en2 f16" href="overview.php" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">사업안내</a>
+			    <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">사업안내</a>
 					<!-- 서브 -->
 					<div class="sub" style="height: 46.2275px; overflow: hidden;">
-					    <a class="dropdown-item ko1 f15 fw4" href="overview.php" target="_self">사업개요</a>
+					    <a class="dropdown-item ko1 f15 fw4" href="#" target="_self">사업개요</a>
 							<a class="dropdown-item ko1 f15 fw4" href="brand.php" target="_self">브랜드소개</a>
 							<a class="dropdown-item ko1 f15 fw4" href="constructor.php" target="_self">시공사소개</a>
 							<a class="dropdown-item ko1 f15 fw4" href="location.php" target="_self">입지환경</a>
@@ -137,7 +132,7 @@ var g5_cookie_domain = "";
 						</div>
 					</li>
 					<li class="nav-item dropdown">
-    					<a class="nav-link dropdown-toggle en2 f16" href="complex.php" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">단지안내</a>
+    					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">단지안내</a>
 						<!-- 서브 -->
 						<div class="sub" style="height: 46.2275px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="complex.php" target="_self">단지소개</a>
@@ -148,7 +143,7 @@ var g5_cookie_domain = "";
 					</li>
 
 					<li class="nav-item dropdown">
-    					<a class="nav-link dropdown-toggle en2 f16" href="overview#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">세대안내</a>
+    					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">세대안내</a>
 						<!-- 서브 -->
 						<div class="sub" style="height: 46.2275px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="plane.php" target="_self">UNIT</a>
@@ -158,16 +153,16 @@ var g5_cookie_domain = "";
 					</li>
 
 					<li class="nav-item dropdown">
-    					<a class="nav-link dropdown-toggle en2 f16" href="guide_1.php" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">분양안내</a>
+    					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">분양안내</a>
 						<!-- 서브 -->
 						<div class="sub" style="height: 46.2275px; overflow: hidden;">
-							<a class="dropdown-item ko1 f15 fw4" href="guide_1.php" target="_self">분양일정</a>
-							<a class="dropdown-item ko1 f15 fw4" href="guide_2.php" target="_self">모집공고</a>
+							<a class="dropdown-item ko1 f15 fw4" href="guide1.php" target="_self">분양일정</a>
+							<a class="dropdown-item ko1 f15 fw4" href="guide2.php" target="_self">모집공고</a>
 						</div>
 					</li>
 
 					<li class="nav-item dropdown">
-    					<a class="nav-link dropdown-toggle en2 f16" href="premium.php" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">프리미엄</a>
+    					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">프리미엄</a>
 						<!-- 서브 -->
 						<div class="sub" style="height: 46.2275px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="premium.php" target="_self">프리미엄</a>
