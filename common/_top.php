@@ -18,13 +18,13 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>사업개요 | 더테라스by레드우즈파크</title>
-<link rel="stylesheet" href="./css/default.css">
-<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="./css/default.css?20240907">
+<link rel="stylesheet" href="./css/style.css?20240907">
 
-<link rel="stylesheet" href="./css/style(1).css">
-<link rel="stylesheet" href="./css/main.css">
-<link rel="stylesheet" href="./css/menu.css">
-<link rel="stylesheet" href="./css/layout.css">
+<link rel="stylesheet" href="./css/style(1).css?20240907">
+<link rel="stylesheet" href="./css/main.css?20240907">
+<link rel="stylesheet" href="./css/menu.css?20240907">
+<link rel="stylesheet" href="./css/layout.css?20240907">
 
 <!--[if lte IE 8]>
 <script src="http://bunyang-sales.buzz/js/html5.js"></script>
@@ -55,12 +55,12 @@ var g5_cookie_domain = "";
 <!--공통-->
 <script src="./js/jquery.easing.1.3.js"></script>
 <script src="./js/owl.carousel.min.js"></script>
-<link rel="stylesheet" media="all" href="./css/owl.carousel.css">
-<link rel="stylesheet" media="all" href="./css/owl.theme.css">
+<link rel="stylesheet" media="all" href="./css/owl.carousel.css?20240907">
+<link rel="stylesheet" media="all" href="./css/owl.theme.css?20240907">
 <link rel="stylesheet" href="./css/css2">
 
 <!-- WOW 라이브러리 불러오기-->
-<link rel="stylesheet" href="./css/animate.css">
+<link rel="stylesheet" href="./css/animate.css?20240907">
 <script src="./js/wow.js"></script>
 <script type="text/javascript" src="./js/common.js"></script>
 
@@ -70,7 +70,7 @@ var g5_cookie_domain = "";
 <script type="text/javascript" src="../plugin/share/respond.min.js"></script>
 <![endif]-->
 <!--[if lte IE 8]>
-<link href="../css/ie8.css" rel="stylesheet">
+<link href="../css/ie8.css?20240907" rel="stylesheet">
 <![endif]-->
 
 <script src="./js/jquery-migrate-1.4.1.min.js"></script>
@@ -111,7 +111,7 @@ var g5_cookie_domain = "";
         </a>
       </h1>
       <div id="d_lnb">
-        <div id="d_lnb_bg" style="height: 99.9261px; overflow: hidden;">
+        <div id="d_lnb_bg" style="height: 0px; overflow: hidden;">
           <div class="d_container">
           </div>
           <div class="shadow">
@@ -121,7 +121,7 @@ var g5_cookie_domain = "";
         	<li class="nav-item dropdown">
 			    <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">사업안내</a>
 					<!-- 서브 -->
-					<div class="sub" style="height: 46.2275px; overflow: hidden;">
+					<div class="sub" style="height: 0px; overflow: hidden;">
 					    <a class="dropdown-item ko1 f15 fw4" href="overview.php" target="_self">사업개요</a>
 							<a class="dropdown-item ko1 f15 fw4" href="brand.php" target="_self">브랜드소개</a>
 							<a class="dropdown-item ko1 f15 fw4" href="constructor.php" target="_self">시공사소개</a>
@@ -132,7 +132,7 @@ var g5_cookie_domain = "";
 					<li class="nav-item dropdown">
     					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">단지안내</a>
 						<!-- 서브 -->
-						<div class="sub" style="height: 46.2275px; overflow: hidden;">
+						<div class="sub" style="height: 0px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="complex.php" target="_self">단지소개</a>
 							<a class="dropdown-item ko1 f15 fw4" href="community.php" target="_self">커뮤니티센터</a>
 							<a class="dropdown-item ko1 f15 fw4" href="placement.php" target="_self">단지배치도</a>
@@ -143,7 +143,7 @@ var g5_cookie_domain = "";
 					<li class="nav-item dropdown">
     					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">세대안내</a>
 						<!-- 서브 -->
-						<div class="sub" style="height: 46.2275px; overflow: hidden;">
+						<div class="sub" style="height: 0px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="plane.php" target="_self">UNIT</a>
 						</div>
 					</li>
@@ -151,7 +151,7 @@ var g5_cookie_domain = "";
 					<li class="nav-item dropdown">
     					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">분양안내</a>
 						<!-- 서브 -->
-						<div class="sub" style="height: 46.2275px; overflow: hidden;">
+						<div class="sub" style="height: 0px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="guide1.php" target="_self">분양일정</a>
 							<a class="dropdown-item ko1 f15 fw4" href="guide2.php" target="_self">모집공고</a>
 						</div>
@@ -160,7 +160,7 @@ var g5_cookie_domain = "";
 					<li class="nav-item dropdown">
     					<a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">프리미엄</a>
 						<!-- 서브 -->
-						<div class="sub" style="height: 46.2275px; overflow: hidden;">
+						<div class="sub" style="height: 0px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="premium.php" target="_self">프리미엄</a>
 						</div>
 					</li>
@@ -222,4 +222,4 @@ var g5_cookie_domain = "";
 
 <!-- jQuery Modal -->
 <script src="./js/jquery.modal.min.js"></script>
-<link rel="stylesheet" href="./css/jquery.modal.min.css">
+<link rel="stylesheet" href="./css/jquery.modal.min.css?20240907">

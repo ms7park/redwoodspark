@@ -4,16 +4,6 @@
   
 <section id="sub">
 
-<div class="m_subMenu sub-menu" style="display:none;">
-    <a href="complex.php">단지소개</a>
-    <a href="community.php">커뮤니티센터</a>
-    <a href="placement.php">단지배치도</a>
-    <a href="layout.php">동호수배치도</a>
-    <a href="plane.php" class="active">UNIT</a>
-    <a href="guide1.php">분양일정</a>
-    <a href="guide2.php">모집공고</a>
-    <a href="map.php">현장오시는길</a>
-</div>
 <div id="sub_visual" class="sub01">
     <div class="inner">
         <h2>UNIT</h2>
@@ -22,7 +12,7 @@
 </div>
 
 <div class="subMenu sub-menu">
-    <a href="lane.php" class="active">UNIT</a>
+    <a href="plane.php" class="active">UNIT</a>
 </div>
 
 <div class="sub_con container">

@@ -115,7 +115,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">사업안내</a>
                             <!-- 서브 -->
-                            <div class="sub" style="height: 46.2275px; overflow: hidden;">
+                            <div class="sub" style="height: 0px; overflow: hidden;">
                                 <a class="dropdown-item ko1 f15 fw4" href="overview.php" target="_self">사업개요</a>
                                 <a class="dropdown-item ko1 f15 fw4" href="brand.php" target="_self">브랜드소개</a>
                                 <a class="dropdown-item ko1 f15 fw4" href="constructor.php" target="_self">시공사소개</a>
@@ -126,7 +126,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">단지안내</a>
                             <!-- 서브 -->
-                            <div class="sub" style="height: 46.2275px; overflow: hidden;">
+                            <div class="sub" style="height: 0px; overflow: hidden;">
                                 <a class="dropdown-item ko1 f15 fw4" href="complex.php" target="_self">단지소개</a>
                                 <a class="dropdown-item ko1 f15 fw4" href="community.php" target="_self">커뮤니티센터</a>
                                 <a class="dropdown-item ko1 f15 fw4" href="placement.php" target="_self">단지배치도</a>
@@ -137,7 +137,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">세대안내</a>
                             <!-- 서브 -->
-                            <div class="sub" style="height: 46.2275px; overflow: hidden;">
+                            <div class="sub" style="height: 0px; overflow: hidden;">
                                 <a class="dropdown-item ko1 f15 fw4" href="plane.php" target="_self">UNIT</a>
                             </div>
                         </li>
@@ -145,7 +145,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">분양안내</a>
                             <!-- 서브 -->
-                            <div class="sub" style="height: 46.2275px; overflow: hidden;">
+                            <div class="sub" style="height: 0px; overflow: hidden;">
                                 <a class="dropdown-item ko1 f15 fw4" href="guide1.php" target="_self">분양일정</a>
                                 <a class="dropdown-item ko1 f15 fw4" href="guide2.php" target="_self">모집공고</a>
                             </div>
@@ -154,7 +154,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">프리미엄</a>
                             <!-- 서브 -->
-                            <div class="sub" style="height: 46.2275px; overflow: hidden;">
+                            <div class="sub" style="height: 0px; overflow: hidden;">
                                 <a class="dropdown-item ko1 f15 fw4" href="premium.php" target="_self">프리미엄</a>
                             </div>
                         </li>
