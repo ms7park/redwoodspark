@@ -2,8 +2,27 @@
     include "common/_top.php"
 ?>
 
-<!--내용관리 php 구문 삽입-->
+    <section id="sub" class="overview">
 
+        <div id="sub_visual" class="sub01">
+            <div class="inner">
+                <!-- <span>SEOMYUN HONORSVILLE</span> -->
+                <h2>커뮤니티센터</h2>
+                <p>선택 받은 당신께 주어지는 놀라운 삶</p>
+            </div>
+        </div>
+
+        <div class="subMenu">
+            <a href="complex.php">단지소개</a>
+            <a href="community.php" class="active">커뮤니티센터</a>
+            <a href="placement.php">단지배치도</a>
+            <a href="layout.php">동호수배치도</a>
+        </div>
+
+        <div class="sub_con container">
+
+
+<!--내용관리 php 구문 삽입-->
 <div id="community">
   <section class="head center">
     <strong>가족, 이웃과 함께하는 특별한 삶이 있는 원주 최초 복합문화상업시설</strong>

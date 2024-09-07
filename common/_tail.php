@@ -3,7 +3,7 @@
 <div id="ft">
     <div class="copyright container">
         <div class="info">
-            <p>분양문의 <strong>010-3235-0049</strong></p>
+            <p>분양문의 <strong>박원식부장 010-3235-0049</strong></p>
             <p>지하3층 지상20층 총640호실</p>
         </div>
         <div class="address">

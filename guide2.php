@@ -2,16 +2,26 @@
     include "common/_top.php"
 ?>
 
+    <section id="sub" class="overview">
+
+        <div id="sub_visual" class="sub01">
+            <div class="inner">
+                <!-- <span>SEOMYUN HONORSVILLE</span> -->
+                <h2>모집공고</h2>
+                <p>당신이 꿈꿨던 원주의 일상이 펼쳐집니다</p>
+            </div>
+        </div>
+
+        <div class="subMenu">
+            <a href="guide1.php">분양일정</a>
+            <a href="guide2.php" class="active">모집공고</a>
+        </div>
+
+        <div class="sub_con container">
+
 <!--내용관리 php 구문 삽입-->
 <style>.sub_con {min-height: auto;} #sub {magin-bottom: 0;}</style>
 <div id="announce">
-  <div class="btn_wrap">
-    <a class="pdtBtn" href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/content.php?co_id=guide_2#">
-    <!-- <a class="pdtBtn" href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/theme/redwoods/img/announcement_1.pdf"> -->
-      <p>입주자모집공고 보기</p>
-      <span><i class="material-symbols-rounded">download</i></span>
-    </a>
-  </div>
   <img src="./img/announce.jpg">
 </div>
 

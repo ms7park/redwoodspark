@@ -5,12 +5,12 @@
 <meta name="naver-site-verification" content="f7ee8419f8b44d1becd67dfd8b10f5fa1ca80613">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="title" content="더테라스by레드우즈파크">
-<link rel="canonical" href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/">
+<link rel="canonical" href="http://bunyang-sales.buzz/">
 <meta name="url" content="http://더테라스레드우즈파크.kr/">
 <meta name="description" content="더테라스by레드우즈파크 분양, 현장, 입주, 브랜드, 상품, 이벤트 안내">
 
 <meta property="og:type" content="website">
-<meta property="og:image" content="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/theme/redwoods/img/sns_img.jpg">
+<meta property="og:image" content="http://bunyang-sales.buzz/img/sns_img.jpg">
 <meta property="og:title" content="더테라스by레드우즈파크">
 <meta property="og:description" content="더테라스by레드우즈파크 분양, 현장, 입주, 브랜드, 상품, 이벤트 안내">
 <meta property="og:url" content="http://더테라스레드우즈파크.kr/">
@@ -20,8 +20,6 @@
 <title>사업개요 | 더테라스by레드우즈파크</title>
 <link rel="stylesheet" href="./css/default.css">
 <link rel="stylesheet" href="./css/style.css">
-<link rel="shortcut icon" href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/theme/redwoods/img/favicon.ico?v=2">
-<link rel="icon" sizes="16x16 32x32" href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/theme/redwoods/img/favicon.ico?v=2">
 
 <link rel="stylesheet" href="./css/style(1).css">
 <link rel="stylesheet" href="./css/main.css">
@@ -29,12 +27,12 @@
 <link rel="stylesheet" href="./css/layout.css">
 
 <!--[if lte IE 8]>
-<script src="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/js/html5.js"></script>
+<script src="http://bunyang-sales.buzz/js/html5.js"></script>
 <![endif]-->
 <script>
 // 자바스크립트에서 사용하는 전역변수 선언
-var g5_url       = "http://bunyang-sales.com";
-var g5_bbs_url   = "http://bunyang-sales.com";
+var g5_url       = "http://bunyang-sales.buzz";
+var g5_bbs_url   = "http://bunyang-sales.buzz";
 var g5_is_member = "";
 var g5_is_admin  = "";
 var g5_is_mobile = "";
@@ -107,7 +105,7 @@ var g5_cookie_domain = "";
         <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
       </div>
       <h1 class="logo">
-        <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/">
+        <a href="http://bunyang-sales.buzz/">
           <img src="./img/logo.svg" alt="더테라스 레드우즈파크" class="pc_logo">
           <img src="./img/logo.svg" alt="더테라스 레드우즈파크" class="m_logo">
         </a>
@@ -124,7 +122,7 @@ var g5_cookie_domain = "";
 			    <a class="nav-link dropdown-toggle en2 f16" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" target="_self">사업안내</a>
 					<!-- 서브 -->
 					<div class="sub" style="height: 46.2275px; overflow: hidden;">
-					    <a class="dropdown-item ko1 f15 fw4" href="#" target="_self">사업개요</a>
+					    <a class="dropdown-item ko1 f15 fw4" href="overview.php" target="_self">사업개요</a>
 							<a class="dropdown-item ko1 f15 fw4" href="brand.php" target="_self">브랜드소개</a>
 							<a class="dropdown-item ko1 f15 fw4" href="constructor.php" target="_self">시공사소개</a>
 							<a class="dropdown-item ko1 f15 fw4" href="location.php" target="_self">입지환경</a>
@@ -147,8 +145,6 @@ var g5_cookie_domain = "";
 						<!-- 서브 -->
 						<div class="sub" style="height: 46.2275px; overflow: hidden;">
 							<a class="dropdown-item ko1 f15 fw4" href="plane.php" target="_self">UNIT</a>
-							<a class="dropdown-item ko1 f15 fw4" href="emodel.php" target="_self">e모델하우스</a>
-							<a class="dropdown-item ko1 f15 fw4" href="interior.php" target="_self">인테리어</a>
 						</div>
 					</li>
 
@@ -175,10 +171,7 @@ var g5_cookie_domain = "";
         </ul>
       </div>
         <div class="menu-last">
-          <!--               <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/register.php"><i class="material-symbols-outlined">settings</i></i><span>회원가입</span></a>
-              <a href="http://xn--9m1b22au1d9pl83bx1fvpfhtqo1bg6g.kr/bbs/login.php"><i class="material-symbols-outlined">settings</i><span>로그인</span></a>
-                     <a href="/bbs/search.php"><i class="material-symbols-outlined">search</i><span>검색</span></a> -->
-          <span class="call"><i class="material-symbols-rounded">call</i>1551-8584<span>
+          <span class="call"><i class="material-symbols-rounded"></i>010-3235-0049<span>
         </span></span></div>
     </div>
     <div id="d_lnb_mask">
@@ -186,33 +179,15 @@ var g5_cookie_domain = "";
   </div>
 </header>
 
-
+<!--
 <div id="quick">
   <div class="top">
-    <p class="open">8월 OPEN예정</p>
+    <p class="open">9월 OPEN</p>
   </div>
   <a href="overview.php" class="btTop"><img src="./img/bt_top.svg" alt="Top"></a>
 </div>
+-->
 
-
-<section id="sub" class="overview">
-
-<div id="sub_visual" class="sub01">
-    <div class="inner">
-        <!-- <span>SEOMYUN HONORSVILLE</span> -->
-        <h2>
-            사업개요        </h2>
-        <p>설레임 가득한 하루하루 당신이 꿈꿨던 원주의 일상이 펼쳐집니다</p>
-    </div>
-</div>
-
-<div class="subMenu">
-    <a href="overview.php" class="active">사업개요</a>
-    <a href="brand.php">브랜드소개</a>
-    <a href="constructor.php">시공사소개</a>
-    <a href="location.php">입지환경</a>
-    <a href="map.php">오시는길</a>
-</div>
 
 <script>
     $('.subMenu a').on('click', function(){
@@ -244,9 +219,6 @@ var g5_cookie_domain = "";
         }
     });
 </script>
-
-
-<div class="sub_con container">
 
 <!-- jQuery Modal -->
 <script src="./js/jquery.modal.min.js"></script>

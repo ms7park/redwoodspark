@@ -176,7 +176,10 @@
   }
 
   #hs2 .d_container {
-    max-width: 1690px;
+    max-width: 1800px;
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
     display: flex;
     justify-content: space-between;
   }
@@ -900,8 +903,8 @@
 
   #d_lnb li .sub a {
     display: block;
-    padding: 7px 30px;
-    font-size: 15px;
+    padding: 6px 30px;
+    font-size: 17px;
     font-weight: 400;
   }
 

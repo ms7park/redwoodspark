@@ -2,6 +2,18 @@
     include "common/_top.php"
 ?>
 
+    <section id="sub" class="overview">
+
+        <div id="sub_visual" class="sub01">
+            <div class="inner">
+                <!-- <span>SEOMYUN HONORSVILLE</span> -->
+                <h2>프리미엄</h2>
+                <p>선택 받은 당신께 주어지는 놀라운 삶</p>
+            </div>
+        </div>
+
+        <div class="sub_con container">
+
 <!--내용관리 php 구문 삽입-->
 <style>
 .sub_con{max-width:1200px}

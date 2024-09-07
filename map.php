@@ -2,6 +2,26 @@
     include "common/_top.php"
 ?>
 
+    <section id="sub" class="overview">
+
+        <div id="sub_visual" class="sub01">
+            <div class="inner">
+                <!-- <span>SEOMYUN HONORSVILLE</span> -->
+                <h2>오시는길</h2>
+                <p>설레임 가득한 하루하루 당신이 꿈꿨던 원주의 일상이 펼쳐집니다</p>
+            </div>
+        </div>
+
+        <div class="subMenu">
+            <a href="overview.php">사업개요</a>
+            <a href="brand.php">브랜드소개</a>
+            <a href="constructor.php">시공사소개</a>
+            <a href="location.php">입지환경</a>
+            <a href="map.php" class="active">오시는길</a>
+        </div>
+
+        <div class="sub_con container">
+
 <!--내용관리 php 구문 삽입-->
 <style>.sub_con{max-width: 1400px;}</style>
 <div id="location" class="container moPd">

@@ -2,6 +2,25 @@
     include "common/_top.php"
 ?>
 
+    <section id="sub" class="overview">
+
+        <div id="sub_visual" class="sub01">
+            <div class="inner">
+                <!-- <span>SEOMYUN HONORSVILLE</span> -->
+                <h2>단지소개</h2>
+                <p>당신이 꿈꿨던 원주의 일상이 펼쳐집니다</p>
+            </div>
+        </div>
+
+        <div class="subMenu">
+            <a href="complex.php" class="active">단지소개</a>
+            <a href="community.php">커뮤니티센터</a>
+            <a href="placement.php">단지배치도</a>
+            <a href="layout.php">동호수배치도</a>
+        </div>
+
+        <div class="sub_con container">
+
 <!--내용관리 php 구문 삽입-->
 <div id="complex">
   <section class="head center">
